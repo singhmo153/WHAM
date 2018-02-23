@@ -1,0 +1,7 @@
+﻿.info-window{
+    min-width:500px;
+}
+
+.info-window .float-right{
+    float:right;
+}
